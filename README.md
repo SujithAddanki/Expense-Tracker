@@ -1,5 +1,3 @@
-# Expense Tracker
-
 # **Expense Tracker**  
 *A MERN Stack Expense Tracker Application*
 
